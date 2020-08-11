@@ -1,0 +1,3 @@
+SEARCH_SIMILARITY_BY = 'answer'
+TOP_K = 2
+ANSWERS_ONLY = True
